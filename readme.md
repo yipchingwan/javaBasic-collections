@@ -16,9 +16,10 @@ Each repository contains a gradle java project with a number of unit tests. The 
 The 4 questions are:
 
 1. What is the knowledge point of the test? Where is the offical document to the knowledge point?
-1. Why the test failed at first?
-1. Why you corrected the test that way?
-1. Do you have further questions on this knowledge point?
+Java Collection, Array, Iterator, Iterable, customize Iterator, Generic Type. https://docs.oracle.com/javase/8/docs/api/java/util/Iterator.html, https://www.tutorialspoint.com/java/java_generics.htm, https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
+1. Why the test failed at first? not match thr expected result.
+1. Why you corrected the test that way? correct the corresponding class/method/content of viable
+1. Do you have further questions on this knowledge point? N/A
 
 ## Example
 
